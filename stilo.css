@@ -1,0 +1,35 @@
+body{
+  background: url(../img/fondo.gif);
+  font-family: 'Titillium Web', sans-serif;
+  margin: 0;
+}
+
+#contenedor{
+  width: 1200px;
+  margin: auto;
+}
+
+#opciones{
+  margin: 0 auto;
+  margin-top: 10%;
+  width: 100%;
+  min-width: 500px;
+  max-width: 650px; 
+  text-align: center;
+}
+
+#titulo{
+  background: rgba(500,500,500,0.70);
+  border-radius: 5px;
+  box-shadow: 0px 0px 15px #000000;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+}
+
+#comentarios{
+  
+  margin: 0 auto;
+  text-align: left;
+  width: 100%;
+}
